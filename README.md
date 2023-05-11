@@ -1,4 +1,4 @@
-# JS Popup Advertising
+# JS Popup Advertising with Cookies
 
 ### Use Skills
 
@@ -8,13 +8,13 @@
 
 ---
 
-[Demo Link <br>![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlexGolovanov/pen/xxyYzOq)
+[Demo Link <br>![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlexGolovanov/pen/gOBezaw)
 
 ![image](readme/gif.gif)
 
 ## Info
 
-Создано на основе видео с Youtube канала [Live Blogger](https://www.youtube.com/c/CodeWithHossein).
+Создано на основе видео с Youtube канала [Live Blogger](https://www.youtube.com/@LiveBlogger).
 
 Для обучения и отработки работы с **CSS** и **JavaScript**.
 
